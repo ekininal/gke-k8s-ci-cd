@@ -123,3 +123,5 @@ fabric.properties
 
 
 
+node_modules
+newrelic_agent.log
